@@ -14,3 +14,5 @@ Presentation outline about the realtime open web.
 # Web Standards
 
 # Real-Time Communication
+## WebSockets
+* MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
