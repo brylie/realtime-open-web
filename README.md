@@ -24,6 +24,8 @@ Presentation outline about the realtime open web.
 * [CreativeCommons](https://creativecommons.org)
 
 # Community
+## Organizations
+[Mozilla](https://mozilla.org)
 
 # Further Learning
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
