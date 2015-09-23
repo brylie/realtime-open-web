@@ -16,3 +16,6 @@ Presentation outline about the realtime open web.
 # Real-Time Communication
 ## WebSockets
 * MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
+
+# Further Learning
+* CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
