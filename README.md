@@ -21,6 +21,7 @@ Presentation outline about the realtime open web.
 
 # Content
 ## Licensing
+* [CreativeCommons](https://creativecommons.org)
 
 # Community
 
