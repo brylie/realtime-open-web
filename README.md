@@ -8,8 +8,9 @@ Presentation outline about the realtime open web.
 # Open Web
 * MDN [Open Web Apps](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
 
-## Web Platform
+## Open Web Platform
 * [Wikipedia: Open Web Platform](https://en.m.wikipedia.org/wiki/Open_Web_Platform)
+* W3C [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
 # Web Standards
 
