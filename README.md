@@ -25,6 +25,7 @@ Presentation outline about the realtime open web.
 
 # Community
 ## Organizations
+* [Electronic Frontier Foundation](https://eff.org)
 [Mozilla](https://mozilla.org)
 
 ## Networks
