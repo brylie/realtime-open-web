@@ -26,10 +26,11 @@ Presentation outline about the realtime open web.
 # Community
 ## Organizations
 * [Electronic Frontier Foundation](https://eff.org)
-[Mozilla](https://mozilla.org)
+* [Mozilla](https://mozilla.org)
 
 ## Networks
 * [Mozilla Developer Network](https://developer.mozilla.org)
 
 # Further Learning
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+* Mozilla [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
