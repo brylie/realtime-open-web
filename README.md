@@ -33,10 +33,16 @@ Open access refers to three main aspects
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#openstd">What is the difference between an open standard and open source software?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C Help</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
-## Web
+## World Wide Web
 > [T]he Web is an information space
 >
 > <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
+---
+> "the World Wide Web from its very inception was designed to be a free and open medium through which human knowledge is created, accessed and exchanged."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://openweb.flossmanuals.net/">An Open Web</a> (<abbr class="p-author h-card" title="Alejandra Perez Nuñez, Christopher Adams, Bassel Safadi, Mick Fuzz, Jon Phillips, Michelle Thorne">Nuñez, et. al</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
 
 ## Open Web
 > * publish **content** and **applications** on the web in **open standards**
