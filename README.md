@@ -26,7 +26,9 @@ Open access refers to three main aspects
 > <cite class="h-cite"><a class="u-url p-name" href="https://opengovdata.io/2014/open-knowledge-definition/">Open Government Data: The Book </a> (<abbr class="p-author h-card" title="Joshua Tauberer">Tauberer</abbr> <time class="dt-accessed">2014</time>)</cite>
 
 ## Web
-
+> [T]he Web is an information space
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
 
 ## Open Web
 > * publish **content** and **applications** on the web in **open standards**
@@ -52,10 +54,8 @@ Open access refers to three main aspects
 * Design
 
 ## Web
-> [T]he Web is an information space
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
-## Open Web
+
+## Open Web Apps
 * MDN [Open Web Apps](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
 
 ## Open Web Platform
