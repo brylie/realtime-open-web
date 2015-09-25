@@ -1,9 +1,22 @@
 # realtime-open-web
 Presentation outline about the realtime open web.
+# Definitions
+## Realtime
+
+## Open
+
+## Open Web
+  
+  * publish **content** and **applications** on the web in **open standards**
+  * **code** and **implement** the web standards that content/apps depend on
+  * **access** and **use** content / code / web-apps / implementations
+
+<cite class="h-cite"><a class="u-url p-name" href="http://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a> (<abbr class="p-author h-card" title="Tantek Çelik">Çelik</abbr> <time class="dt-published">2010-10-08</time>)</cite>
 
 # Technology
 ## Internet
-
+* Purpose
+* Design
 ## World Wide Web
 
 ## Open Web
