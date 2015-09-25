@@ -114,5 +114,8 @@ Details about emerging technologies including
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 * Mozilla [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
 
+## Books
+* [Open Data Handbook](http://opendatahandbook.org/)
+
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
