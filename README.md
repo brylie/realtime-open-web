@@ -1,4 +1,4 @@
-# realtime-open-web
+# Realtime Open Web
 Presentation outline about the realtime open web.
 # Definitions
 ## Realtime
