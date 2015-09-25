@@ -48,6 +48,14 @@ Open access refers to three main aspects
 * W3C [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
 ## Web Standards
+### Structure
+* HTML
+
+### Design
+* CSS
+
+## Interactivity
+* JavaScript
 
 ## Real-Time Communication
 ### WebSockets
