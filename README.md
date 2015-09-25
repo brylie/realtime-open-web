@@ -19,6 +19,7 @@ Presentation outline about the realtime open web.
 ## Internet
 * Purpose
 * Design
+
 ## World Wide Web
 
 ## Open Web
