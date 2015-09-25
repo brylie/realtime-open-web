@@ -8,6 +8,17 @@ Presentation outline about the realtime open web.
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://opendefinition.org/">Open Definition (succinctly)</a> (<abbr class="p-author h-card" title="Open Definition">Open Definition</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
+## Open Knowledge
+
+> * Access
+> * Redistribution
+> * Reuse
+> * Absence of Technological Restriction
+> * Attribution
+> * Integrity
+> * No Discrimination
+> <cite class="h-cite"><a class="u-url p-name" href="https://opengovdata.io/2014/open-knowledge-definition/">Open Government Data: The Book </a> (<abbr class="p-author h-card" title="Joshua Tauberer">Tauberer</abbr> <time class="dt-accessed">2014</time>)</cite>
+
 ## Web
 
 
