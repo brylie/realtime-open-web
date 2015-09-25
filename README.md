@@ -118,6 +118,7 @@ Details about emerging technologies including
 * Mozilla [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
 
 ## Books
+* [An Open Web](http://openweb.flossmanuals.net/)
 * [Open Data Handbook](http://opendatahandbook.org/)
 
 ## Articles
