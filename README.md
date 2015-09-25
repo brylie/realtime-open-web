@@ -54,8 +54,15 @@ Open access refers to three main aspects
 ### Design
 * CSS
 
-## Interactivity
+### Interactivity
 * JavaScript
+
+## Web Platform
+Details about emerging technologies including
+* WebRTC
+* WebComponents
+* WebGL
+* WebAssembly
 
 ## Real-Time Communication
 ### WebSockets
