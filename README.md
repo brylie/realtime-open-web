@@ -8,6 +8,9 @@ Presentation outline about the realtime open web.
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://opendefinition.org/">Open Definition (succinctly)</a> (<abbr class="p-author h-card" title="Open Definition">Open Definition</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
+## Web
+
+
 ## Open Web
 > * publish **content** and **applications** on the web in **open standards**
 > * **code** and **implement** the web standards that content/apps depend on
@@ -19,8 +22,6 @@ Presentation outline about the realtime open web.
 ## Internet
 * Purpose
 * Design
-
-## World Wide Web
 
 ## Open Web
 * MDN [Open Web Apps](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
@@ -43,6 +44,7 @@ Presentation outline about the realtime open web.
 ## Organizations
 * [Electronic Frontier Foundation](https://eff.org)
 * [Mozilla](https://mozilla.org)
+* [Open Knowledge Foundation](https://okfn.org/)
 
 ## Networks
 * [Mozilla Developer Network](https://developer.mozilla.org)
@@ -50,3 +52,4 @@ Presentation outline about the realtime open web.
 # Further Learning
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 * Mozilla [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
+
