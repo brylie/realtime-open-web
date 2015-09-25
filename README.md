@@ -120,7 +120,8 @@ Details about emerging technologies including
 ## Books
 * [An Open Web](http://openweb.flossmanuals.net/)
 * [Open Data Handbook](http://opendatahandbook.org/)
-* [THe Future of the Internet (and How to Stop it)](http://futureoftheinternet.org/)
+* [The Future of the Internet (and How to Stop it)](http://futureoftheinternet.org/)
+* [The Future of Ideas](http://www.the-future-of-ideas.com/)
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
