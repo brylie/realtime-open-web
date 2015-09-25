@@ -122,6 +122,7 @@ Details about emerging technologies including
 * [Open Data Handbook](http://opendatahandbook.org/)
 * [The Future of the Internet (and How to Stop it)](http://futureoftheinternet.org/)
 * [The Future of Ideas](http://www.the-future-of-ideas.com/)
+* The Master Switch: The Rise and Fall of Information Empires by Tim Wu
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
