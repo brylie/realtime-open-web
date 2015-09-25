@@ -4,11 +4,17 @@ Presentation outline about the realtime open web.
 ## Realtime
 
 ## Open
+Open access refers to three main aspects
+* License
+* Access
+* Format
+
+### Open Data and Content
 > “Open data and content can be freely used, modified, and shared by anyone for any purpose” 
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://opendefinition.org/">Open Definition (succinctly)</a> (<abbr class="p-author h-card" title="Open Definition">Open Definition</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
-## Open Knowledge
+### Open Knowledge
 
 > * Access
 > * Redistribution
