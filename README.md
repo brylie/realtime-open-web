@@ -33,6 +33,9 @@ Open access refers to three main aspects
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#openstd">What is the difference between an open standard and open source software?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C Help</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
+## Open Formats
+* [Open Format Definition](http://opendefinition.org/ofd/)
+
 ## World Wide Web
 > [T]he Web is an information space
 >
