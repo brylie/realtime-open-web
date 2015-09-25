@@ -94,7 +94,7 @@ Details about emerging technologies including
 * WebRTC
 * WebComponents
 * WebGL
-* WebAssembly
+* [WebAssembly](https://github.com/WebAssembly)
 
 ## Real-Time Communication
 ### WebSockets
