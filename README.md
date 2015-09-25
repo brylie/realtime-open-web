@@ -37,6 +37,10 @@ Open access refers to three main aspects
 
 # Technology
 ## Internet
+> [T]he Internet is a network of networks
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
 * Purpose
 * Design
 
