@@ -35,6 +35,13 @@ Open access refers to three main aspects
 >
 > <cite class="h-cite"><a class="u-url p-name" href="http://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a> (<abbr class="p-author h-card" title="Tantek Çelik">Çelik</abbr> <time class="dt-published">2010-10-08</time>)</cite>
 
+---
+>  “As much as we love the open Web, we’re abandoning it.”
+>
+><cite class="h-cite"><a class="u-url p-name" href="http://www.wired.com/2010/08/ff_webrip/">The Web is Dead. Long Live the Internet</a> (<abbr class="p-author h-card" title="Chris Anderson, WIRED Magazine">Chris Anderson, WIRED Magazine</abbr> <time class="dt-published">2010-08-17</time>)</cite>
+>—
+
+
 # Technology
 ## Internet
 > [T]he Internet is a network of networks
