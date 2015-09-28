@@ -6,12 +6,19 @@ Presentation outline about the realtime open web.
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_web">Real-time web</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
+## Real-time data
+> "information that is delivered immediately after collection"
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_data">Real-time data</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
 ## Near real-time
 > "a near-real-time display depicts an event or situation as it existed at the current time minus the processing time"
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Examples
+* [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
+
 ### Real-time text
 ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
 <cite class="h-cite"><a class="u-url p-name" href="http://www.realjabber.org/anim/real_time_text_demo.html">Demo of real-time text. Sender's typing is streamed in real-time!</a> (<abbr class="p-author h-card" title="Mark D. Rejhon">Mark D. Rejhon</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
