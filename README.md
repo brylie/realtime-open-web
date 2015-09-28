@@ -128,14 +128,33 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 > "[Open Web Apps] are built using standard open Web technologies — HTML, CSS, JavaScript, etc. — and can be accessed using a Web browser"
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Intro to Open Web Apps</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">Mozilla Developer Network</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
-> 
+
 
 ## Open Web Platform
 * [Wikipedia: Open Web Platform](https://en.m.wikipedia.org/wiki/Open_Web_Platform)
 * W3C [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
 ### Structure
-* HTML
+#### HTML
+
+#### HTML 5
+![HTML 5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/145px-HTML5_logo_and_wordmark.svg.png)
+
+> "[HTML5] Introduces markup and APIs for emerging idioms, such as Web applications
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/html5-diff/">HTML5 Differences from HTML4</a> (<abbr class="p-author h-card" title="WorldWideWeb Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+![HTML5 Overview](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HTML5_APIs_and_related_technologies_taxonomy_and_status.svg/640px-HTML5_APIs_and_related_technologies_taxonomy_and_status.svg.png)
+
+* Supports vector graphics and math equations
+* New page elements (at least 30)
+* New UI elements (date and time, email, etc)
+* Removing obsolete HTML elements
+* Semantic metadata
+* Real-time communications
+* Animation support
+* Improved interactivity
+* Rich multimedia
 
 ### Design
 * CSS
@@ -183,7 +202,6 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 >
 ><cite class="h-cite"><a class="u-url p-name" href="https://creativecommons.org/freeworks">Free Cultural Work</a> (<abbr class="p-author h-card" title="CreativeCommons">CreativeCommons</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
-
 # Community
 ## Organizations
 * [Electronic Frontier Foundation](https://eff.org)
@@ -210,5 +228,3 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
-
-
