@@ -155,6 +155,8 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 * Animation support
 * Improved interactivity
 * Rich multimedia
+* Geolocation
+* Improved accessiblity
 
 ### Design
 * CSS
@@ -234,4 +236,5 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
 
