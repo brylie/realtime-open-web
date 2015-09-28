@@ -174,7 +174,12 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 ### Modular audio pipeline for web applications
 > "[HTML5 Audio enables] processing and synthesizing audio in web applications"
 >
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/webaudio//">Web Audio API</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/webaudio/">Web Audio API</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+### Speech synthesis and input
+> "[Web Speech API] enables developers to use scripting to generate text-to-speech output and to use speech recognition as an input"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://dvcs.w3.org/hg/speech-api/raw-file/9a0075d25326/speechapi.html">Web Speech API</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ### High performance web applications
 * [WebAssembly](https://github.com/WebAssembly)
