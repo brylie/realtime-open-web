@@ -168,6 +168,7 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [The Future of the Internet (and How to Stop it)](http://futureoftheinternet.org/)
 * [The Future of Ideas](http://www.the-future-of-ideas.com/)
 * The Master Switch: The Rise and Fall of Information Empires by Tim Wu
+* [The Cultural Life of Intellectual Properties](http://www.goodreads.com/book/show/1077721.The_Cultural_Life_of_Intellectual_Properties) by Rosemary J. Coombe
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
