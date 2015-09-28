@@ -189,9 +189,9 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 
 #### ECMAScript (ES6 / ES2015)
 > "[T]he official name of JavaScript is ECMAScript"
-
+> ...
 > "ES6 became a standard in June 2015"
-
+> ...
 > "There are three major groups of features (in ES6):
 > * Better syntax for features that already exist (e.g. via libraries). For example:
 >   * Classes
@@ -204,6 +204,8 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 >   * Generators
 >   * Proxies
 >   * WeakMaps
+> <cite class="h-cite"><a class="u-url p-name" href="http://exploringjs.com/es6/">Exploring ES6</a> (<abbr class="p-author h-card" title="Dr. Axel Rauschmayer">Rauschmayer</abbr> <time class="dt-accessed">2015</time>)</cite>
+
 
 ### Audo, video, and data
 * Web Video format(s)
