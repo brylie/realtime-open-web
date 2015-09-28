@@ -145,10 +145,13 @@ Increases performance to approach native speed.
 ![enter image description here](https://creativecommons.org/images/deed/seal.png)
 A subset of Creative Commons licenses are designated as promoting Free Culture. The definition of a Free Cultural Work allows the following:
 
-* **Freedom to use the work** itself
-* **Freedom to use** the information in the work **for any purpose**
-* **Freedom to share** copies of the work for any purpose
-* **Freedom to make and share remixes** and other derivatives for any purpose
+> * Freedom to use the work itself
+> * Freedom to use the information in the work for any purpose
+> * Freedom to share copies of the work for any purpose
+> * Freedom to make and share remixes and other derivatives for any purpose
+>
+><cite class="h-cite"><a class="u-url p-name" href="https://creativecommons.org/freeworks">Free Cultural Work</a> (<abbr class="p-author h-card" title="CreativeCommons">CreativeCommons</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
 
 # Community
 ## Organizations
