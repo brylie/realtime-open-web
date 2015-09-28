@@ -173,7 +173,7 @@ HTML, traditionally, describes page structure.
 
 ![CSS 3 modules status](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg/640px-CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg.png)
 
-Image: "CSS3 taxonomy and status by Sergey Mavrody" by Mercury999 - Own work. Licensed under CC BY-SA 4.0 via Commons - https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg#/media/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg 
+Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg#/media/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg">CSS3 taxonomy and status by Sergey Mavrody</a>" by <a href="//commons.wikimedia.org/wiki/User:Mercury999" title="User:Mercury999">Mercury999</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a title="Creative Commons Attribution-Share Alike 4.0" href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
 ### Interactivity
 * JavaScript
