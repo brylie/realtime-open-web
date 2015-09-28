@@ -163,7 +163,10 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 * JavaScript
 
 ### Audo, video, and data
-* Web Audio API
+> "[HTML5 Audio enables] processing and synthesizing audio in web applications"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/webaudio//">Web Audio API</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
 * Web Video format(s)
 
 ### Be-usable bundles of structure, design, and interactivity
@@ -228,3 +231,4 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
