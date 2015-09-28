@@ -27,8 +27,8 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:Internet_map_1024.jpg#/
 # Open
 Open access refers to three main aspects
 
-* License
 * Access
+* License
 * Format
 
 ## Open Data and Content
@@ -49,7 +49,16 @@ Open access refers to three main aspects
 > <cite class="h-cite"><a class="u-url p-name" href="https://opengovdata.io/2014/open-knowledge-definition/">Open Government Data: The Book</a> (<abbr class="p-author h-card" title="Joshua Tauberer">Tauberer</abbr> <time class="dt-accessed">2014</time>)</cite>
 
 ## Open Source
+The Open Source definition has several aspects similar to other open definitions.
 
+> * Free Redistribution
+> * Source Code
+> * Derived Works
+> * Integrity
+> * No Discrimination
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="http://opensource.org/osd">
+The Open Source Definition</a> (<abbr class="p-author h-card" title="Open Source Initiative">Open Source Initiative</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
 
 ## Open Standards
 > [while] open source refers to software [...] open standards refer to documents (that may then be implemented by software).
@@ -195,4 +204,5 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
 
