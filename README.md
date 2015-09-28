@@ -90,11 +90,16 @@ Open access refers to three main aspects
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ### EarthWindMap
+[![EarthWindMap](http://earth.nullschool.net/sample.jpg)](http://earth.nullschool.net/about.html)
  [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
  
 ### Eyes on Earth
 [![Eyes on the Earth](http://eyes.nasa.gov/system/content_pages/main_images/6_detail_eoe_641x350.jpg)](http://eyes.nasa.gov/eyes-on-the-earth.html)
 NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displays Earth's vital signs in near real-time.
+
+### See also
+* NASA: [Near Real-Time AMSR2 Data Being Released](https://earthdata.nasa.gov/earth-observation-data/near-real-time/near-real-time-amsr2-data-being-released)
+* NASA [Lightning Imaging Sensor Data & Research](https://ghrc.nsstc.nasa.gov/home/projects/lightning)
 
 ### Real-time text
 ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
