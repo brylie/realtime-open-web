@@ -136,7 +136,9 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 
 ### Structure
 #### HTML
+HTML, traditionally, describes page structure.
 
+![HTML page structure example](https://raw.githubusercontent.com/brylie/realtime-open-web/master/images/html-structure.png)
 #### HTML 5
 ![HTML 5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/145px-HTML5_logo_and_wordmark.svg.png)
 
