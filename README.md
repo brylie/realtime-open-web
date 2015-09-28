@@ -52,6 +52,7 @@ Open access refers to three main aspects
 
 ### Open Source
 
+
 ### Open Standards
 > [while] open source refers to software [...] open standards refer to documents (that may then be implemented by software).
 > 
@@ -134,6 +135,7 @@ Details about emerging technologies including
 # Content
 ## Licensing
 * [CreativeCommons](https://creativecommons.org)
+  * [Choose a license](https://creativecommons.org/choose/) demo
 
 # Community
 ## Organizations
