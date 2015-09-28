@@ -125,7 +125,6 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 * [Wikipedia: Open Web Platform](https://en.m.wikipedia.org/wiki/Open_Web_Platform)
 * W3C [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
-## Web Standards
 ### Structure
 * HTML
 
@@ -135,12 +134,10 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 ### Interactivity
 * JavaScript
 
-## Web Platform
-Details about emerging technologies including
-
 ### Audo, video, and data
-* WebRTC 
- 
+* Web Audio API
+* Web Video format(s)
+
 ### Be-usable bundles of structure, design, and interactivity
 * WebComponents 
  
@@ -157,6 +154,9 @@ Increases performance to approach native speed.
 
 ### WebSockets
 * MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
+
+### Real-time communication
+* WebRTC - audio, video, data channels
 
 # Content
 ## Licensing
@@ -198,5 +198,6 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
 
 
