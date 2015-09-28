@@ -176,6 +176,7 @@ HTML, traditionally, describes page structure.
 Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg#/media/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg">CSS3 taxonomy and status by Sergey Mavrody</a>" by <a href="//commons.wikimedia.org/wiki/User:Mercury999" title="User:Mercury999">Mercury999</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a title="Creative Commons Attribution-Share Alike 4.0" href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
 ### Interactivity
+#### JavaScript (ECMA Script)
 > "JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, most known as the scripting language for Web pages"
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
@@ -185,6 +186,24 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 > "JavaScript is notorious for being the world's most misunderstood programming language. While it is often derided as a toy, beneath its deceptive simplicity lie some powerful language features"
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript (JS tutorial)</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+#### ECMAScript (ES6 / ES2015)
+> "[T]he official name of JavaScript is ECMAScript"
+
+> "ES6 became a standard in June 2015"
+
+> "There are three major groups of features (in ES6):
+> * Better syntax for features that already exist (e.g. via libraries). For example:
+>   * Classes
+>   * Modules
+> * New functionality in the standard library. For example:
+>   * New methods for strings and Arrays
+>   * Promises
+>   * Maps, Sets
+> * Completely new features. For example:
+>   * Generators
+>   * Proxies
+>   * WeakMaps
 
 ### Audo, video, and data
 * Web Video format(s)
