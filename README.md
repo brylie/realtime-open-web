@@ -3,11 +3,13 @@ Presentation outline about the realtime open web.
 # Definitions
 ## Real-time Web
 > "enable[s] users to receive information as soon as it is published by its authors, rather than requiring that they or their software check a source periodically for updates."
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_web">Real-time web</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Near real-time
 > "a near-real-time display depicts an event or situation as it existed at the current time minus the processing time"
 > 
-> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipeedia">Wikipedia</abbr> <time class="dt-accessed">2015-09-28</time>)</cite>
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Examples
 ### Real-time text
