@@ -107,7 +107,10 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 
 
 ## Open Web Apps
-* MDN [Open Web Apps](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
+> "[Open Web Apps] are built using standard open Web technologies — HTML, CSS, JavaScript, etc. — and can be accessed using a Web browser"
+>
+><cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Intro to Open Web Apps</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">Mozilla Developer Network</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+> 
 
 ## Open Web Platform
 * [Wikipedia: Open Web Platform](https://en.m.wikipedia.org/wiki/Open_Web_Platform)
@@ -186,3 +189,5 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
+
