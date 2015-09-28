@@ -9,6 +9,7 @@ Presentation outline about the realtime open web.
 ---
 
 >![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg)
+>
 >"<a href="https://commons.wikimedia.org/wiki/File:Internet_map_1024.jpg#/media/File:Internet_map_1024.jpg">Internet map 1024</a>" by <a href="//commons.wikimedia.org/w/index.php?title=Barrett_Lyon&amp;action=edit&amp;redlink=1" class="new" title="Barrett Lyon (page does not exist)">The Opte Project</a> - Originally from the <a href="//en.wikipedia.org/wiki/Main_Page" class="extiw" title="en:Main Page">English Wikipedia</a>; description page is/was <a href="//en.wikipedia.org/wiki/en:Image:Internet_map_1024.jpg" class="extiw" title="w:en:Image:Internet map 1024.jpg">here</a>.. Licensed under <a title="Creative Commons Attribution 2.5" href="http://creativecommons.org/licenses/by/2.5">CC BY 2.5</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
 * Purpose
@@ -91,10 +92,14 @@ Open access refers to three main aspects
 
 ### EarthWindMap
 [![EarthWindMap](http://earth.nullschool.net/sample.jpg)](http://earth.nullschool.net/about.html)
+ Image: <cite class="h-cite"><a class="u-url p-name" href="http://earth.nullschool.net/about.html">EarthWindMap</a> (<abbr class="p-author h-card" title="EarthWindMap">Nullschool</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
  [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
  
 ### Eyes on Earth
 [![Eyes on the Earth](http://eyes.nasa.gov/system/content_pages/main_images/6_detail_eoe_641x350.jpg)](http://eyes.nasa.gov/eyes-on-the-earth.html)
+ Image: <cite class="h-cite"><a class="u-url p-name" href="http://eyes.nasa.gov/eyes-on-the-earth.html">Eyes on the Earth</a> (<abbr class="p-author h-card" title="NASA">NASA</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
 NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displays Earth's vital signs in near real-time.
 
 ### See also
@@ -102,16 +107,19 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 * NASA [Lightning Imaging Sensor Data & Research](https://ghrc.nsstc.nasa.gov/home/projects/lightning)
 
 ### Real-time text
-![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
-<cite class="h-cite"><a class="u-url p-name" href="http://www.realjabber.org/anim/real_time_text_demo.html">Demo of real-time text. Sender's typing is streamed in real-time!</a> (<abbr class="p-author h-card" title="Mark D. Rejhon">Mark D. Rejhon</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+ ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
+ Image: <cite class="h-cite"><a class="u-url p-name" href="http://www.realjabber.org/anim/real_time_text_demo.html">Demo of real-time text. Sender's typing is streamed in real-time!</a> (<abbr class="p-author h-card" title="Mark D. Rejhon">Mark D. Rejhon</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 
 ## Open Web Apps
 [![I Love the Web](https://developer.mozilla.org/files/4523/multidevices.png)](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
 
+ Image: <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">I Love the Web</a> (<abbr class="p-author h-card" title="Mozilla">Mozilla</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+
 > "[Open Web Apps] are built using standard open Web technologies — HTML, CSS, JavaScript, etc. — and can be accessed using a Web browser"
 >
-><cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Intro to Open Web Apps</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">Mozilla Developer Network</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Intro to Open Web Apps</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">Mozilla Developer Network</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 > 
 
 ## Open Web Platform
