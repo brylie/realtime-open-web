@@ -17,7 +17,10 @@ Presentation outline about the realtime open web.
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Examples
-* [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
+### EarthWindMap
+ [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
+### Eyes on Earth
+NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displays Earth's vital signs in near real-time.
 
 ### Real-time text
 ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
@@ -25,6 +28,7 @@ Presentation outline about the realtime open web.
 
 ## Open
 Open access refers to three main aspects
+
 * License
 * Access
 * Format
@@ -146,3 +150,5 @@ Details about emerging technologies including
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
+
