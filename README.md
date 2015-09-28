@@ -107,6 +107,8 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 
 
 ## Open Web Apps
+[![I Love the Web](https://developer.mozilla.org/files/4523/multidevices.png)](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
+
 > "[Open Web Apps] are built using standard open Web technologies — HTML, CSS, JavaScript, etc. — and can be accessed using a Web browser"
 >
 ><cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps">Intro to Open Web Apps</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">Mozilla Developer Network</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
