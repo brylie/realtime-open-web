@@ -93,7 +93,7 @@ Open access refers to three main aspects
  [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
  
 ### Eyes on Earth
-![enter image description here](http://eyes.nasa.gov/system/content_pages/main_images/6_detail_eoe_641x350.jpg)
+[![Eyes on the Earth](http://eyes.nasa.gov/system/content_pages/main_images/6_detail_eoe_641x350.jpg)](http://eyes.nasa.gov/eyes-on-the-earth.html)
 NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displays Earth's vital signs in near real-time.
 
 ### Real-time text
@@ -181,5 +181,3 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
-
-
