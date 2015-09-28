@@ -1,6 +1,74 @@
 # Realtime Open Web
 Presentation outline about the realtime open web.
-# Definitions
+
+# Internet
+> [T]he Internet is a network of networks
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
+* Purpose
+* Design
+
+# World Wide Web
+> [T]he Web is an information space
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
+---
+> "the World Wide Web from its very inception was designed to be a free and open medium through which human knowledge is created, accessed and exchanged."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://openweb.flossmanuals.net/">An Open Web</a> (<abbr class="p-author h-card" title="Alejandra Perez Nuñez, Christopher Adams, Bassel Safadi, Mick Fuzz, Jon Phillips, Michelle Thorne">Nuñez, et. al</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
+
+# Open
+Open access refers to three main aspects
+
+* License
+* Access
+* Format
+
+## Open Data and Content
+> “Open data and content can be freely used, modified, and shared by anyone for any purpose” 
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="http://opendefinition.org/">Open Definition (succinctly)</a> (<abbr class="p-author h-card" title="Open Definition">Open Definition</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
+
+## Open Knowledge
+
+> * Access
+> * Redistribution
+> * Reuse
+> * Absence of Technological Restriction
+> * Attribution
+> * Integrity
+> * No Discrimination
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://opengovdata.io/2014/open-knowledge-definition/">Open Government Data: The Book</a> (<abbr class="p-author h-card" title="Joshua Tauberer">Tauberer</abbr> <time class="dt-accessed">2014</time>)</cite>
+
+## Open Source
+
+
+## Open Standards
+> [while] open source refers to software [...] open standards refer to documents (that may then be implemented by software).
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#openstd">What is the difference between an open standard and open source software?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C Help</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
+
+## Open Formats
+* [Open Format Definition](http://opendefinition.org/ofd/)
+
+## Open Web
+> * publish **content** and **applications** on the web in **open standards**
+> * **code** and **implement** the web standards that content/apps depend on
+> * **access** and **use** content / code / web-apps / implementations
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a> (<abbr class="p-author h-card" title="Tantek Çelik">Çelik</abbr> <time class="dt-published">2010-10-08</time>)</cite>
+
+---
+>  “As much as we love the open Web, we’re abandoning it.”
+>
+><cite class="h-cite"><a class="u-url p-name" href="http://www.wired.com/2010/08/ff_webrip/">The Web is Dead. Long Live the Internet</a> (<abbr class="p-author h-card" title="Chris Anderson, WIRED Magazine">Chris Anderson, WIRED Magazine</abbr> <time class="dt-published">2010-08-17</time>)</cite>
+>—
+
+# Real-time
+
 ## Real-time Web
 > "enable[s] users to receive information as soon as it is published by its authors, rather than requiring that they or their software check a source periodically for updates."
 > 
@@ -16,9 +84,9 @@ Presentation outline about the realtime open web.
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
-## Examples
 ### EarthWindMap
  [Earth: a global map of wind, weather, and ocean conditions](http://earth.nullschool.net/#current/particulates/surface/level/overlay=suexttau/orthographic=-299.83,42.94,671) (near real-time)
+ 
 ### Eyes on Earth
 NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displays Earth's vital signs in near real-time.
 
@@ -26,76 +94,6 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
 <cite class="h-cite"><a class="u-url p-name" href="http://www.realjabber.org/anim/real_time_text_demo.html">Demo of real-time text. Sender's typing is streamed in real-time!</a> (<abbr class="p-author h-card" title="Mark D. Rejhon">Mark D. Rejhon</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
-## Open
-Open access refers to three main aspects
-
-* License
-* Access
-* Format
-
-### Open Data and Content
-> “Open data and content can be freely used, modified, and shared by anyone for any purpose” 
-> 
-> <cite class="h-cite"><a class="u-url p-name" href="http://opendefinition.org/">Open Definition (succinctly)</a> (<abbr class="p-author h-card" title="Open Definition">Open Definition</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
-
-### Open Knowledge
-
-> * Access
-> * Redistribution
-> * Reuse
-> * Absence of Technological Restriction
-> * Attribution
-> * Integrity
-> * No Discrimination
-> 
-> <cite class="h-cite"><a class="u-url p-name" href="https://opengovdata.io/2014/open-knowledge-definition/">Open Government Data: The Book</a> (<abbr class="p-author h-card" title="Joshua Tauberer">Tauberer</abbr> <time class="dt-accessed">2014</time>)</cite>
-
-### Open Source
-
-
-### Open Standards
-> [while] open source refers to software [...] open standards refer to documents (that may then be implemented by software).
-> 
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#openstd">What is the difference between an open standard and open source software?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C Help</abbr> <time class="dt-accessed">2015-09-25</time>)</cite>
-
-## Open Formats
-* [Open Format Definition](http://opendefinition.org/ofd/)
-
-## World Wide Web
-> [T]he Web is an information space
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
-
----
-> "the World Wide Web from its very inception was designed to be a free and open medium through which human knowledge is created, accessed and exchanged."
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://openweb.flossmanuals.net/">An Open Web</a> (<abbr class="p-author h-card" title="Alejandra Perez Nuñez, Christopher Adams, Bassel Safadi, Mick Fuzz, Jon Phillips, Michelle Thorne">Nuñez, et. al</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
-
-
-## Open Web
-> * publish **content** and **applications** on the web in **open standards**
-> * **code** and **implement** the web standards that content/apps depend on
-> * **access** and **use** content / code / web-apps / implementations
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://tantek.com/2010/281/b1/what-is-the-open-web">What is the Open Web?</a> (<abbr class="p-author h-card" title="Tantek Çelik">Çelik</abbr> <time class="dt-published">2010-10-08</time>)</cite>
-
----
->  “As much as we love the open Web, we’re abandoning it.”
->
-><cite class="h-cite"><a class="u-url p-name" href="http://www.wired.com/2010/08/ff_webrip/">The Web is Dead. Long Live the Internet</a> (<abbr class="p-author h-card" title="Chris Anderson, WIRED Magazine">Chris Anderson, WIRED Magazine</abbr> <time class="dt-published">2010-08-17</time>)</cite>
->—
-
-
-# Technology
-## Internet
-> [T]he Internet is a network of networks
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
-
-* Purpose
-* Design
-
-## Web
 
 ## Open Web Apps
 * MDN [Open Web Apps](https://developer.mozilla.org/en-US/Apps/Quickstart/Build/Intro_to_open_web_apps)
@@ -134,10 +132,6 @@ Details about emerging technologies including
 JavaScript, or other languages, may be compiled to web-compatible bytecode.
 Increases performance to approach native speed.
 
-
-
-
-## Real-Time Communication
 ### WebSockets
 * MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
 
