@@ -166,6 +166,15 @@ HTML, traditionally, describes page structure.
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">CSS developer guide</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
+#### CSS 3
+> "[T]he CSS Working Group have decided to modularize the CSS specification."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/">Introduction to CSS 3</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+![CSS 3 modules status](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg/640px-CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg.png)
+
+Image: "CSS3 taxonomy and status by Sergey Mavrody" by Mercury999 - Own work. Licensed under CC BY-SA 4.0 via Commons - https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg#/media/File:CSS3_taxonomy_and_status_by_Sergey_Mavrody.svg 
+
 ### Interactivity
 * JavaScript
 
