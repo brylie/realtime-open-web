@@ -117,16 +117,25 @@ Open access refers to three main aspects
 ## Web Platform
 Details about emerging technologies including
 
+### Audo, video, and data
 * WebRTC 
-  * audo, video, and data
+ 
+### Be-usable bundles of structure, design, and interactivity
 * WebComponents 
-  * re-usable bundles of HTML, CSS, and JavaScript
+ 
+### 3D, interactive content
 * WebGL
-  * 3 dimensional, interactive content
+
+### Modular audio pipeline for web applications
 * WebAudio 
-  * modular audio pipeline for web applications
+
+### High performance web applications
 * [WebAssembly](https://github.com/WebAssembly)
-  * compiled bytecode for high performance web applications
+JavaScript, or other languages, may be compiled to web-compatible bytecode.
+Increases performance to approach native speed.
+
+
+
 
 ## Real-Time Communication
 ### WebSockets
