@@ -160,8 +160,11 @@ HTML, traditionally, describes page structure.
 * Geolocation
 * Improved accessiblity
 
-### Design
-* CSS
+### Presentation
+#### CSS
+> "CSS is used to describe the presentation of a document written in HTML or other markup languages such as SVG. CSS describes how the structured elements in the document are to be rendered on screen, on paper, in speech, or on other media."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS">CSS developer guide</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ### Interactivity
 * JavaScript
