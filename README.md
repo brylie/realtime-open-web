@@ -140,6 +140,15 @@ Increases performance to approach native speed.
 * [CreativeCommons](https://creativecommons.org)
   * [Choose a license](https://creativecommons.org/choose/) demo
 
+### Free Cultural Work
+![enter image description here](https://creativecommons.org/images/deed/seal.png)
+A subset of Creative Commons licenses are designated as promoting Free Culture. The definition of a Free Cultural Work allows the following:
+
+* **Freedom to use the work** itself
+* **Freedom to use** the information in the work **for any purpose**
+* **Freedom to share** copies of the work for any purpose
+* **Freedom to make and share remixes** and other derivatives for any purpose
+
 # Community
 ## Organizations
 * [Electronic Frontier Foundation](https://eff.org)
