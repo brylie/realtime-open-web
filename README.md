@@ -1,7 +1,12 @@
 # Realtime Open Web
 Presentation outline about the realtime open web.
 # Definitions
-## Realtime
+## Real-time
+
+### Near real-time
+> "a near-real-time display depicts an event or situation as it existed at the current time minus the processing time"
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Real-time_computing#Near_real-time">Real-time computing: Near real-time</a> (<abbr class="p-author h-card" title="Wikipeedia">Wikipedia</abbr> <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Open
 Open access refers to three main aspects
@@ -126,3 +131,4 @@ Details about emerging technologies including
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
+
