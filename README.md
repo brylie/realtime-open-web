@@ -1,7 +1,8 @@
 # Realtime Open Web
 Presentation outline about the realtime open web.
 # Definitions
-## Real-time
+## Real-time Web
+> "enable[s] users to receive information as soon as it is published by its authors, rather than requiring that they or their software check a source periodically for updates."
 
 ## Near real-time
 > "a near-real-time display depicts an event or situation as it existed at the current time minus the processing time"
@@ -11,6 +12,7 @@ Presentation outline about the realtime open web.
 ## Examples
 ### Real-time text
 ![Real-time text instant messenger](http://www.realjabber.org/real_time_text_demo.gif)
+<cite class="h-cite"><a class="u-url p-name" href="http://www.realjabber.org/anim/real_time_text_demo.html">Demo of real-time text. Sender's typing is streamed in real-time!</a> (<abbr class="p-author h-card" title="Mark D. Rejhon">Mark D. Rejhon</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 ## Open
 Open access refers to three main aspects
@@ -135,4 +137,3 @@ Details about emerging technologies including
 
 ## Articles
 * [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
-
