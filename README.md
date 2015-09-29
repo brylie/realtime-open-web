@@ -2,6 +2,15 @@
 Presentation outline about the realtime open web, why it matters, and what you can do with it.
 
 ---
+# Introduction
+![Apinf team photo](https://pbs.twimg.com/media/CPfSYJbWIAA8DCB.jpg)
+
+Brylie Christopher Oxley
+@brylieO
+
+http://github.com/brylie
+
+---
 # Internet
 > [T]he Internet is a network of networks
 >
