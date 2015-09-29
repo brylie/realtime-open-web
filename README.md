@@ -339,7 +339,17 @@ Goals of WebAssembly include:
 
 ---
 ### Real-time communication
-* WebRTC - audio, video, data channels
+####WebRTC - audio, video, data channels
+
+> "WebRTC (where RTC stands for Real-Time Communications) .. enables audio/video streaming and data sharing between browser clients (peers). ... WebRTC provides ... the ability to share application data and perform teleconferencing peer to peer, without the need to install plug-ins or third-party software. 
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/Guide/API/WebRTC">WebRTC</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+---
+#### WebRTC mission
+> "To enable rich, high quality, RTC applications to be developed  for the browser, mobile platforms, and IoT devices, and allow them all to communicate via a common set of protocols.
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.webrtc.org/">WebRTC</a> (<abbr class="p-author h-card" title="WebRTC.org">webrtc.org</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
 # Content
