@@ -170,8 +170,10 @@ NASA [Eyes on the Earth](http://eyes.nasa.gov/eyes-on-the-earth.html) app displa
 ---
 
 ## Open Web Platform
-* [Wikipedia: Open Web Platform](https://en.m.wikipedia.org/wiki/Open_Web_Platform)
-* W3C [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform)
+> "The Open Web Platform is the collection of open (royalty-free) technologies which enables the Web. Using the Open Web Platform, everyone has the right to implement a software component of the Web without requiring any approvals or waiving license fees."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/wiki/Open_Web_Platform">Open Web Platform</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C Wiki</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
 
 ---
 ### Structure
