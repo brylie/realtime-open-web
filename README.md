@@ -424,6 +424,7 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [Open Knowledge Foundation](https://okfn.org/)
 
 ## Networks
+* [FreeCodeCamp](http://freecodecamp.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org)
 
 ---
@@ -432,6 +433,7 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 ---
 ## Online resources
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+* [FreeCodeCamp](http://freecodecamp.com/)
 * [Khan Academy](https://khanacademy.org)
   * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
   * [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
@@ -458,6 +460,9 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 
 ---
 # Get Involved
+## Service learning
+* [FreeCodeCamp](http://freecodecamp.com/)
+
 ## World Wide Web Consortium
 * [Participate](http://www.w3.org/participate/)
 * [Working Groups](https://www.w3.org/Consortium/activities)
