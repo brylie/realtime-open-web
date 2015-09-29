@@ -8,7 +8,7 @@ Presentation outline about the realtime open web.
 
 ---
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg)
+![Internet map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg)
 Image: "<a href="https://commons.wikimedia.org/wiki/File:Internet_map_1024.jpg#/media/File:Internet_map_1024.jpg">Internet map 1024</a>" by <a href="//commons.wikimedia.org/w/index.php?title=Barrett_Lyon&amp;action=edit&amp;redlink=1" class="new" title="Barrett Lyon (page does not exist)">The Opte Project</a> - Originally from the <a href="//en.wikipedia.org/wiki/Main_Page" class="extiw" title="en:Main Page">English Wikipedia</a>; description page is/was <a href="//en.wikipedia.org/wiki/en:Image:Internet_map_1024.jpg" class="extiw" title="w:en:Image:Internet map 1024.jpg">here</a>.. Licensed under <a title="Creative Commons Attribution 2.5" href="http://creativecommons.org/licenses/by/2.5">CC BY 2.5</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.
 
 Features
@@ -212,6 +212,7 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 >   * Generators
 >   * Proxies
 >   * WeakMaps
+>
 > <cite class="h-cite"><a class="u-url p-name" href="http://exploringjs.com/es6/">Exploring ES6</a> (<abbr class="p-author h-card" title="Dr. Axel Rauschmayer">Rauschmayer</abbr> <time class="dt-accessed">2015</time>)</cite>
 
 
