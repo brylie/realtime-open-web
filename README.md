@@ -374,6 +374,7 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * Mozilla 
   * [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
   * [MDN App Center](https://developer.mozilla.org/en-US/Apps)
+* [WebPlatform.org](http://www.webplatform.org/)
 
 ---
 ## Books
