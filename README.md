@@ -216,8 +216,13 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 > <cite class="h-cite"><a class="u-url p-name" href="http://exploringjs.com/es6/">Exploring ES6</a> (<abbr class="p-author h-card" title="Dr. Axel Rauschmayer">Rauschmayer</abbr> <time class="dt-accessed">2015</time>)</cite>
 
 
-### Audo, video, and data
-* Web Video format(s)
+### Multimedia
+#### Audio
+> "The HTML <audio> element is used to embed sound content in documents."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">&lt;audio&gt;</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+Browsers now have native audio playback support.
 
 ### Be-usable bundles of structure, design, and interactivity
 * WebComponents 
