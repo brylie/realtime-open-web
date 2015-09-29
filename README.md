@@ -1,6 +1,7 @@
 # Realtime Open Web
-Presentation outline about the realtime open web.
+Presentation outline about the realtime open web, why it matters, and what you can do with it.
 
+---
 # Internet
 > [T]he Internet is a network of networks
 >
