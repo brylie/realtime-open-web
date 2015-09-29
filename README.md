@@ -377,7 +377,6 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [Mozilla](https://mozilla.org)
 * [Open Knowledge Foundation](https://okfn.org/)
 
----
 ## Networks
 * [Mozilla Developer Network](https://developer.mozilla.org)
 
@@ -401,11 +400,6 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [The Master Switch: The Rise and Fall of Information Empires](https://en.wikipedia.org/wiki/Tim_Wu#The_Master_Switch) by Tim Wu
 * [The Cultural Life of Intellectual Properties](http://www.goodreads.com/book/show/1077721.The_Cultural_Life_of_Intellectual_Properties) by Rosemary J. Coombe
  
----
 ### JavaScript (including ES6/ES2015)
 * [Exploring ES6](http://exploringjs.com/es6/) by Dr. Axel Rauschmayer
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marjin Haverbeke
-
----
-## Articles
-* [Exploring the Open Defintion](http://blog.okfn.org/2013/10/07/exploring-the-open-definition/)
