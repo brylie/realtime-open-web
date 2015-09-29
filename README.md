@@ -317,15 +317,15 @@ Browsers now have native audio playback support. Notable, open formats include:
 
 ---
 ### High performance web applications
-* [WebAssembly](https://github.com/WebAssembly)
+#### WebAssembly
+
 Goals of WebAssembly include:
 >" [Define a binary format that will] execute at native speed by taking advantage of common hardware capabilities available on a wide range of platforms, including mobile and IoT"
 >
 > "Design to execute within and integrate well with the existing Web platform"
 >
->
-JavaScript, or other languages, may be compiled to web-compatible bytecode.
-Increases performance to approach native speed.
+> <cite class="h-cite"><a class="u-url p-name" href="https://github.com/WebAssembly/design/blob/master/HighLevelGoals.md">WebAssembly High-Level Goals</a> (<abbr class="p-author h-card" title="WebAssembly">WebAssembly</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
 
 ---
 ### WebSockets
