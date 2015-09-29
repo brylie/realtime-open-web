@@ -400,8 +400,15 @@ See also
 
 # Content
 ## Licensing
+### Creative Commons
 * [CreativeCommons](https://creativecommons.org)
   * [Choose a license](https://creativecommons.org/choose/) demo
+
+### Open Data Commons
+> "Open Data Commons is the home of a set of legal tools to help you provide and use Open Data"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://opendatacommons.org/">Legal Tools for Open Data</a> (<abbr class="p-author h-card" title="Open Data Commons">Open Data Commons</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
 
 ---
 ### Free Cultural Work
