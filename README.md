@@ -432,7 +432,10 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 ---
 ## Online resources
 * CodeSchool [Realtime web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
-* Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+* [Khan Academy](https://khanacademy.org)
+  * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+  * [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
+  * [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations]
 * Mozilla 
   * [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
   * [MDN App Center](https://developer.mozilla.org/en-US/Apps)
