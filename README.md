@@ -435,7 +435,7 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [Khan Academy](https://khanacademy.org)
   * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
   * [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
-  * [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations]
+  * [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 * Mozilla 
   * [Web Literacy](https://teach.mozilla.org/teach-like-mozilla/web-literacy/)
   * [MDN App Center](https://developer.mozilla.org/en-US/Apps)
