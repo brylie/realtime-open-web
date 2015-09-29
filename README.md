@@ -301,7 +301,9 @@ Browsers now have native audio playback support. Notable, open formats include:
  
 ---
 ### 3D, interactive content
-* WebGL
+> "WebGL is for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API">WebGL API</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
 ### Modular audio pipeline for web applications
