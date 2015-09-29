@@ -357,17 +357,6 @@ Goals of WebAssembly include:
 * [WebSocket.org demos](https://www.websocket.org/demos.html)
 
 ---
-#### Server Sent Events
-> "[Server-Sent Events] enable servers to push data to Web pages over HTTP or using dedicated server-push protocols"
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/eventsource/">Server-Sent Events</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
-
-
-> "With server-sent events, it's possible for a server to send new data to a web page at any time, by pushing messages to the web page."
->
-> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events">Server-sent events</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
-
----
 ### Real-time communication
 ####WebRTC - audio, video, data channels
 
@@ -382,6 +371,33 @@ Goals of WebAssembly include:
 > <cite class="h-cite"><a class="u-url p-name" href="http://www.webrtc.org/">WebRTC</a> (<abbr class="p-author h-card" title="WebRTC.org">webrtc.org</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
+#### Server Sent Events
+> "[Server-Sent Events] enable servers to push data to Web pages over HTTP or using dedicated server-push protocols"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/eventsource/">Server-Sent Events</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+
+> "With server-sent events, it's possible for a server to send new data to a web page at any time, by pushing messages to the web page."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events">Server-sent events</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+---
+##### Start building real-time web applications
+Full-Stack
+* [Meteor](http://meteor.com)
+
+Server-side
+* [Feathers](http://feathersjs.com/)
+* [restful.io](https://www.npmjs.com/package/restful.io)
+* [socket.io](https://www.npmjs.com/package/socket.io)
+
+See also
+* NPM keyword: [eventsource](https://www.npmjs.com/browse/keyword/eventsource)
+* NPM keyword: [realtime](https://www.npmjs.com/browse/keyword/realtime)
+* NPM keyword: [websocket](https://www.npmjs.com/browse/keyword/websocket)
+
+---
+
 # Content
 ## Licensing
 * [CreativeCommons](https://creativecommons.org)
