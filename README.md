@@ -243,7 +243,6 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 
-
 > "JavaScript is notorious for being the world's most misunderstood programming language. While it is often derided as a toy, beneath its deceptive simplicity lie some powerful language features"
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript (JS tutorial)</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
@@ -341,6 +340,7 @@ Goals of WebAssembly include:
 
 ---
 ### Event-driven communication
+#### WebSockets
 > "[WebSockets] makes it possible to open an interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">WebSockets</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
@@ -348,6 +348,17 @@ Goals of WebAssembly include:
 
 * MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
 * [WebSocket.org demos](https://www.websocket.org/demos.html)
+
+---
+#### Server Sent Events
+> "[Server-Sent Events] enable servers to push data to Web pages over HTTP or using dedicated server-push protocols"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/TR/eventsource/">Server-Sent Events</a> (<abbr class="p-author h-card" title="World Wide Web Consortium">W3C</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+
+> "With server-sent events, it's possible for a server to send new data to a web page at any time, by pushing messages to the web page."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events">Server-sent events</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
 ### Real-time communication
