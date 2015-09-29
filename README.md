@@ -16,6 +16,8 @@ http://github.com/brylie
 >
 > <cite class="h-cite"><a class="u-url p-name" href="http://www.w3.org/Help/#webinternet">What is the difference between the Web and the Internet?</a> (<abbr class="p-author h-card" title="W3C Frequently Asked Questions">W3C</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
 
+Development of Internet standards and protocols is coordinated by the [Internet Engineering Task Force](http://ietf.org/).
+
 ---
 
 ![Internet map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg)
