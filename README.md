@@ -433,3 +433,16 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 ### JavaScript (including ES6/ES2015)
 * [Exploring ES6](http://exploringjs.com/es6/) by Dr. Axel Rauschmayer
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marjin Haverbeke
+* 
+
+---
+# Get Involved
+## World Wide Web Consortium
+* [Participate](http://www.w3.org/participate/)
+* [Working Groups](https://www.w3.org/Consortium/activities)
+* [Events](http://www.w3.org/participate/eventscal.html)
+
+## Web Hypertext Application Technology Working Group
+* [What you can do](https://wiki.whatwg.org/wiki/What_you_can_do)
+* [Mailing list](https://whatwg.org/mailing-list)
+* [IRC](https://wiki.whatwg.org/wiki/IRC)
