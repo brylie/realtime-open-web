@@ -231,8 +231,20 @@ Browsers now have native audio playback support. Notable, open formats include:
 * VP8
 * VP9
 
-### Be-usable bundles of structure, design, and interactivity
-* WebComponents 
+### Reusable, custom user interface elements
+[![Web Components logo](http://webcomponents.org/img/logo.svg)](http://webcomponents.org)
+
+> "You can think of Web Components as reusable user interface widgets that are created using open Web technology."
+>
+> "An existing Web Component can be used without writing code, simply by adding an import statement to an HTML page."
+> 
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/Web_Components">Web Components</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+---
+
+> "There's an element for that."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://www.polymer-project.org/summit">Polymer Summit 2015</a> (<abbr class="p-author h-card" title="Polymer Project">Polymer Project</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
  
 ### 3D, interactive content
 * WebGL
