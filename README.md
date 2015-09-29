@@ -404,14 +404,8 @@ See also
 * [CreativeCommons](https://creativecommons.org)
   * [Choose a license](https://creativecommons.org/choose/) demo
 
-### Open Data Commons
-> "Open Data Commons is the home of a set of legal tools to help you provide and use Open Data"
->
-> <cite class="h-cite"><a class="u-url p-name" href="http://opendatacommons.org/">Legal Tools for Open Data</a> (<abbr class="p-author h-card" title="Open Data Commons">Open Data Commons</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
-
-
 ---
-### Free Cultural Work
+#### Free Cultural Work
 ![enter image description here](https://creativecommons.org/images/deed/seal.png)
 A subset of Creative Commons licenses are designated as promoting Free Culture. The definition of a Free Cultural Work allows the following:
 
@@ -421,6 +415,11 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 > * Freedom to make and share remixes and other derivatives for any purpose
 >
 ><cite class="h-cite"><a class="u-url p-name" href="https://creativecommons.org/freeworks">Free Cultural Work</a> (<abbr class="p-author h-card" title="CreativeCommons">CreativeCommons</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+
+### Open Data Commons
+> "Open Data Commons is the home of a set of legal tools to help you provide and use Open Data"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://opendatacommons.org/">Legal Tools for Open Data</a> (<abbr class="p-author h-card" title="Open Data Commons">Open Data Commons</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
 # Community
