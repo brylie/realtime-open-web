@@ -328,8 +328,14 @@ Goals of WebAssembly include:
 
 
 ---
-### WebSockets
+### Event-driven communication
+> "[WebSockets] makes it possible to open an interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API">WebSockets</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+
 * MDN [WebSockets demos](https://developer.mozilla.org/en-US/demos/tag/tech%3Awebsockets)
+* [WebSocket.org demos](https://www.websocket.org/demos.html)
 
 ---
 ### Real-time communication
