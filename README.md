@@ -217,12 +217,19 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 
 
 ### Multimedia
-#### Audio
-> "The HTML <audio> element is used to embed sound content in documents."
+> "The &lt;audio&gt; and &lt;video&gt; elements provide support for playing audio and video media without requiring plug-ins.."
 >
-> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio">&lt;audio&gt;</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
-Browsers now have native audio playback support.
+#### Formats
+> "Different browsers do not support the same media formats in their implementations of HTML5 video and audio, mainly because of patent issues. The area of media formats on the Web has greatly suffered from patent law in many countries  including the USA and EU countries"
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">Media formats supported by the HTML audio and video elements</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+Browsers now have native audio playback support. Notable, open formats include:
+* WebM
+* VP8
+* VP9
 
 ### Be-usable bundles of structure, design, and interactivity
 * WebComponents 
