@@ -192,8 +192,12 @@ Image: "<a href="https://commons.wikimedia.org/wiki/File:CSS3_taxonomy_and_statu
 > <cite class="h-cite"><a class="u-url p-name" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">A re-introduction to JavaScript (JS tutorial)</a> (<abbr class="p-author h-card" title="Mozilla Developer Network">MDN</abbr> - Accessed: <time class="dt-accessed">2015-09-28</time>)</cite>
 
 #### ECMAScript (ES6 / ES2015)
-> "[T]he official name of JavaScript is ECMAScript"
-> ...
+> "ECMAScript is best known as the language embedded in web browsers but has also been widely adopted for server and embedded applications. The sixth edition is the most extensive update to ECMAScript since the publication of the first edition in 1997."
+>
+> "Goals for ECMAScript 2015 include providing better support for large applications, library creation, and for use of ECMAScript as a compilation target for other languages."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="http://www.ecma-international.org/ecma-262/6.0/">ECMAScript® 2015 Language Specification</a> (<abbr class="p-author h-card" title="ECMA International">ECMA International</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
 > "ES6 became a standard in June 2015"
 > ...
 > "There are three major groups of features (in ES6):
