@@ -401,8 +401,13 @@ See also
 # Content
 ## Licensing
 ### Creative Commons
-* [CreativeCommons](https://creativecommons.org)
-  * [Choose a license](https://creativecommons.org/choose/) demo
+> "[Creative Commons] enables the sharing and use of creativity and knowledge through free legal tools."
+>
+><cite class="h-cite"><a class="u-url p-name" href="http://creativecommons.org/about">About Creative Commons</a> (<abbr class="p-author h-card" title="CreativeCommons">Creative Commons</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
+
+* [Creative Commons](https://creativecommons.org)
+  * [Choose a license](https://creativecommons.org/choose/)
+  * [Find CC licensed content](https://search.creativecommons.org/)
 
 ---
 #### Free Cultural Work
