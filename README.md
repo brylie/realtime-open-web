@@ -451,9 +451,9 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [The Cultural Life of Intellectual Properties](http://www.goodreads.com/book/show/1077721.The_Cultural_Life_of_Intellectual_Properties) by Rosemary J. Coombe
  
 ### JavaScript (including ES6/ES2015)
-* [Exploring ES6](http://exploringjs.com/es6/) by Dr. Axel Rauschmayer
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marjin Haverbeke
-* 
+* [Exploring ES6](http://exploringjs.com/es6/) by Dr. Axel Rauschmayer
+* [Understanding ES6](https://leanpub.com/understandinges6/read/) b Nicholas C. Zakas
 
 ---
 # Get Involved
