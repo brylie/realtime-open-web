@@ -45,6 +45,10 @@ Internet Features
 >
 > <cite class="h-cite"><a class="u-url p-name" href="http://openweb.flossmanuals.net/">An Open Web</a> (<abbr class="p-author h-card" title="Alejandra Perez Nuñez, Christopher Adams, Bassel Safadi, Mick Fuzz, Jon Phillips, Michelle Thorne">Nuñez, et. al</abbr> <time class="dt-accessed">Retrieved 2015-09-25</time>)</cite>
 
+
+Development of World Wide Web standards and technologies is corrdinated jointly by:
+* [World Wide Web Consortium](http://www.w3.org/)
+* [Web Hypertext Application Technology Working Group](https://whatwg.org/)
 ---
 
 # Open
