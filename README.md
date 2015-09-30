@@ -6,7 +6,7 @@ Presentation outline about the realtime open web, why it matters, and what you c
 ![Apinf team photo](https://pbs.twimg.com/media/CPfSYJbWIAA8DCB.jpg)
 
 Brylie Christopher Oxley
-@brylieO and [brylie](http://github.com/brylie) on Github
+* Twitter: [@brylieO](https://twitter.com/brylieo) and Github: [brylie](http://github.com/brylie)
 
 ---
 # Internet
