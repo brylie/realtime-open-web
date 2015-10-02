@@ -36,6 +36,17 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Lists_of_nuclear_disasters_and_radioactive_incidents#/media/File:Hanford_N_Reactor_adjusted.jpg">Lists of nuclear disasters and radioactive incidents</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> <time class="dt-accessed">Retrieved 2015-10-02</time>)</cite>
 
+---
+
+> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Oil_wells_just_offshore_at_Summerland%2C_California%2C_c.1915.jpg/640px-Oil_wells_just_offshore_at_Summerland%2C_California%2C_c.1915.jpg)
+>
+> "A field of dozens of oil wells just offshore, at Summerland (Santa Barbara County), [c. 1915]."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Oil_field">Oil field</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> <time class="dt-accessed">Retrieved 2015-10-02</time>)</cite>
+>
+> Image by G.H. Eldridge [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AOil_wells_just_offshore_at_Summerland%2C_California%2C_c.1915.jpg">via Wikimedia Commons</a>
+
+
 ## Remediation
 
 ![Summerland Oilfield remediation](https://upload.wikimedia.org/wikipedia/commons/3/3e/SummerlandOilFieldToday1.jpg)
