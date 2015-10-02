@@ -10,10 +10,24 @@ Brylie Christopher Oxley
 
 ---
 # Prologue
+
+---
+
 ## Natural and commonwealth resources
+
+---
+
 ### Environmental commons
 
+---
+
 #### Mining
+> ![History of mining](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/History_of_mining.svg/220px-History_of_mining.svg.png)
+>
+> Image by Brylie Christopher Oxley, <a href="https://commons.wikimedia.org/wiki/File%3AHistory_of_mining.svg">via Wikimedia Commons</a>
+
+---
+
 > ![Hydraulic mining in Malakoff Diggins, California](http://water.usgs.gov/edu/pictures/full-size/mining-hydraulic-large.jpg)
 >
 > Photo credit [USGS](http://water.usgs.gov/edu/gallery/mining-hydraulic.html) and the Bancroft Library, University of California.
