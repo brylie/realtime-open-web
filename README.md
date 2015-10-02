@@ -529,10 +529,10 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 
 ## Finding within
 
-### Growing wisdom
-> ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pearl_Of_Wisdom.jpg/640px-Pearl_Of_Wisdom.jpg)
+### Giving wisdom
+> ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Uwakoya1.jpg/480px-Uwakoya1.jpg)
 >
-> Photo by Tagdance (Own work), <a href="https://commons.wikimedia.org/wiki/File%3APearl_Of_Wisdom.jpg">via Wikimedia Commons</a>
+> Photo by UWAKOYA (http://www.uwakoya.ru/data/pictures/Jevchuzina.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AUwakoya1.jpg">via Wikimedia Commons</a>
 
 ### Follow your Heart
 > "When you work you are a flute through whose heart the whispering of the hours turns to music.
