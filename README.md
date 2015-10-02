@@ -22,7 +22,7 @@ Brylie Christopher Oxley
 ---
 
 #### Mining
-> ![History of mining](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/History_of_mining.svg/220px-History_of_mining.svg.png)
+> ![History of mining](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/History_of_mining.svg/400px-History_of_mining.svg.png)
 >
 > Image by Brylie Christopher Oxley, <a href="https://commons.wikimedia.org/wiki/File%3AHistory_of_mining.svg">via Wikimedia Commons</a>
 
