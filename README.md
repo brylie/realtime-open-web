@@ -464,6 +464,44 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 > <cite class="h-cite"><a class="u-url p-name" href="http://opendatacommons.org/">Legal Tools for Open Data</a> (<abbr class="p-author h-card" title="Open Data Commons">Open Data Commons</abbr> - Accessed: <time class="dt-accessed">2015-09-29</time>)</cite>
 
 ---
+
+# Epilogue
+## Seeking outward
+### The world as an oyster
+![Flat oysters (Ostrea edulis) from Cancale (Brittany, France).](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Huitres_Cancale.jpg/640px-Huitres_Cancale.jpg)
+
+Photo by <a href="/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>, <a href="https://commons.wikimedia.org/wiki/File%3AHuitres_Cancale.jpg">via Wikimedia Commons</a>
+
+---
+
+![Oyster shells at Nahcotta port, Long Beach Peninsula,WA.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oyster_shells_at_Nahcotta_port%2CWA.JPG/640px-Oyster_shells_at_Nahcotta_port%2CWA.JPG)
+
+Photo by Lihagen (Own work) <a href="https://commons.wikimedia.org/wiki/File%3AOyster_shells_at_Nahcotta_port%2CWA.JPG">via Wikimedia Commons</a>
+
+---
+
+![Guiyu ewaste](https://upload.wikimedia.org/wikipedia/commons/0/07/Guiyu-ewaste.jpg)
+
+Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AGuiyu-ewaste.jpg">via Wikimedia Commons</a>
+
+### Economics of scarcity
+
+## Finding within
+
+### Giving wisdom
+> ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Uwakoya1.jpg/480px-Uwakoya1.jpg)
+>
+> Photo by UWAKOYA (http://www.uwakoya.ru/data/pictures/Jevchuzina.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AUwakoya1.jpg">via Wikimedia Commons</a>
+
+### Follow your Heart
+> "When you work you are a flute through whose heart the whispering of the hours turns to music.
+> ...
+> And all work is empty save when there is love;
+> ...
+> Work is love made visible."
+>
+> [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print. 
+
 # Community
 ---
 ## Organizations
@@ -505,6 +543,10 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marjin Haverbeke
 * [Exploring ES6](http://exploringjs.com/es6/) by Dr. Axel Rauschmayer
 * [Understanding ES6](https://leanpub.com/understandinges6/read/) b Nicholas C. Zakas
+ 
+## Articles
+### Prologue topics
+* [Hydraulic mining](https://en.wikipedia.org/wiki/Hydraulic_mining)
 
 ---
 # Get Involved
@@ -520,40 +562,3 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [What you can do](https://wiki.whatwg.org/wiki/What_you_can_do)
 * [Mailing list](https://whatwg.org/mailing-list)
 * [IRC](https://wiki.whatwg.org/wiki/IRC)
- 
-# Epilogue
-## Seeking outward
-### The world as an oyster
-![Flat oysters (Ostrea edulis) from Cancale (Brittany, France).](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Huitres_Cancale.jpg/640px-Huitres_Cancale.jpg)
-
-Photo by <a href="/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>, <a href="https://commons.wikimedia.org/wiki/File%3AHuitres_Cancale.jpg">via Wikimedia Commons</a>
-
----
-
-![Oyster shells at Nahcotta port, Long Beach Peninsula,WA.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oyster_shells_at_Nahcotta_port%2CWA.JPG/640px-Oyster_shells_at_Nahcotta_port%2CWA.JPG)
-
-Photo by Lihagen (Own work) <a href="https://commons.wikimedia.org/wiki/File%3AOyster_shells_at_Nahcotta_port%2CWA.JPG">via Wikimedia Commons</a>
-
----
-
-![Guiyu ewaste](https://upload.wikimedia.org/wikipedia/commons/0/07/Guiyu-ewaste.jpg)
-
-Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AGuiyu-ewaste.jpg">via Wikimedia Commons</a>
-
-### Economics of scarcity
-
-## Finding within
-
-### Giving wisdom
-> ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Uwakoya1.jpg/480px-Uwakoya1.jpg)
->
-> Photo by UWAKOYA (http://www.uwakoya.ru/data/pictures/Jevchuzina.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AUwakoya1.jpg">via Wikimedia Commons</a>
-
-### Follow your Heart
-> "When you work you are a flute through whose heart the whispering of the hours turns to music.
-> ...
-> And all work is empty save when there is love;
-> ...
-> Work is love made visible."
->
-> [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print. 
