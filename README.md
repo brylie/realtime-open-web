@@ -9,6 +9,12 @@ Brylie Christopher Oxley
 * Twitter: [@brylieO](https://twitter.com/brylieo) and Github: [brylie](http://github.com/brylie)
 
 ---
+# Prologue
+## Natural and commonwealth resources 
+
+## Industrialism
+
+---
 # Internet
 > [T]he Internet is a network of networks
 >
