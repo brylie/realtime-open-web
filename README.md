@@ -21,6 +21,8 @@ Brylie Christopher Oxley
 
 The Malakoff Diggins, California, showing the effects of hydraulic mining on a hillside over a century later. Much of the effects of the mining was beyond the hills themselves, on the areas downstream of the water and sediment flow they produced.
 
+Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AMalakoff_Diggins%2C_State_Historic_Park_(Retouched).JPG">via Wikimedia Commons</a>
+
 ## Industrialism
 
 ---
