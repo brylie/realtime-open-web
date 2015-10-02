@@ -14,6 +14,9 @@ Brylie Christopher Oxley
 ### Environmental commons
 
 ####Hydraulic mining
+> ![Hydraulic mining in Malakoff Diggins, California](http://water.usgs.gov/edu/pictures/full-size/mining-hydraulic-large.jpg)
+>
+> Photo credit [USGS](http://water.usgs.gov/edu/gallery/mining-hydraulic.html) and the Bancroft Library, University of California.
 
 ---
 
