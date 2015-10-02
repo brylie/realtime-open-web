@@ -28,7 +28,7 @@ Brylie Christopher Oxley
 
 Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AMalakoff_Diggins%2C_State_Historic_Park_(Retouched).JPG">via Wikimedia Commons</a>
 
-## Energy
+### Energy
 
 ![Hanford nuclear site](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanford_N_Reactor_adjusted.jpg/640px-Hanford_N_Reactor_adjusted.jpg)
 > 
@@ -36,7 +36,11 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 >
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Lists_of_nuclear_disasters_and_radioactive_incidents#/media/File:Hanford_N_Reactor_adjusted.jpg">Lists of nuclear disasters and radioactive incidents</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> <time class="dt-accessed">Retrieved 2015-10-02</time>)</cite>
 
-## Industrialism
+## Remediation
+
+![Summerland Oilfield remediation](https://upload.wikimedia.org/wikipedia/commons/3/3e/SummerlandOilFieldToday1.jpg)
+>
+> Image by <a href="//en.wikipedia.org/wiki/User:Antandrus" class="extiw" title="en:User:Antandrus">Antandrus</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>, <a href="https://commons.wikimedia.org/wiki/File%3ASummerlandOilFieldToday1.jpg">via Wikimedia Commons</a>
 
 ---
 # Internet
