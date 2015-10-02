@@ -496,10 +496,14 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 # Epilogue
 ## Seeking outward
 ### The world as an oyster
+![Flat oysters (Ostrea edulis) from Cancale (Brittany, France).](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Huitres_Cancale.jpg/640px-Huitres_Cancale.jpg)
 
+Photo by <a href="/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>&nbsp;/&nbsp;<a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>, <a href="https://commons.wikimedia.org/wiki/File%3AHuitres_Cancale.jpg">via Wikimedia Commons</a>
 ---
 ![Oyster shells at Nahcotta port, Long Beach Peninsula,WA.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Oyster_shells_at_Nahcotta_port%2CWA.JPG/640px-Oyster_shells_at_Nahcotta_port%2CWA.JPG)
-By Lihagen (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOyster_shells_at_Nahcotta_port%2CWA.JPG">via Wikimedia Commons</a>
+
+Photo by Lihagen (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOyster_shells_at_Nahcotta_port%2CWA.JPG">via Wikimedia Commons</a>
+
 ### Economics of scarcity
 
 ## Finding within
