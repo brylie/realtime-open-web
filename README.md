@@ -508,4 +508,4 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 > ...
 > Work is love made visible."
 >
-> Gibran, Kahlil. The Prophet. London: Heinemann, 1926. Print. 
+> [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1926. Print. 
