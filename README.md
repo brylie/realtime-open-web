@@ -10,7 +10,16 @@ Brylie Christopher Oxley
 
 ---
 # Prologue
-## Natural and commonwealth resources 
+## Natural and commonwealth resources
+### Mineral extraction
+
+####Hydraulic mining
+
+---
+
+![Malakoff Diggins, California](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Malakoff_Diggins%2C_State_Historic_Park_%28Retouched%29.JPG/640px-Malakoff_Diggins%2C_State_Historic_Park_%28Retouched%29.JPG)
+
+The Malakoff Diggins, California, showing the effects of hydraulic mining on a hillside over a century later. Much of the effects of the mining was beyond the hills themselves, on the areas downstream of the water and sediment flow they produced.
 
 ## Industrialism
 
