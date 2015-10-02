@@ -532,7 +532,7 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 ### Growing wisdom
 > ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pearl_Of_Wisdom.jpg/640px-Pearl_Of_Wisdom.jpg)
 >
-> Photo by Tagdance (Own work) [<a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3APearl_Of_Wisdom.jpg">via Wikimedia Commons</a>
+> Photo by Tagdance (Own work), <a href="https://commons.wikimedia.org/wiki/File%3APearl_Of_Wisdom.jpg">via Wikimedia Commons</a>
 
 ### Follow your Heart
 > "When you work you are a flute through whose heart the whispering of the hours turns to music.
