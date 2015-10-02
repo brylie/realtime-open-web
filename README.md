@@ -506,6 +506,12 @@ Photo by <a href="/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>, <a
 
 Photo by Lihagen (Own work) <a href="https://commons.wikimedia.org/wiki/File%3AOyster_shells_at_Nahcotta_port%2CWA.JPG">via Wikimedia Commons</a>
 
+---
+
+![Guiyu ewaste](https://upload.wikimedia.org/wikipedia/commons/0/07/Guiyu-ewaste.jpg)
+
+Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AGuiyu-ewaste.jpg">via Wikimedia Commons</a>
+
 ### Economics of scarcity
 
 ## Finding within
