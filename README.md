@@ -1,5 +1,5 @@
-# Realtime Open Web
-Presentation outline about the realtime open web, why it matters, and what you can do with it.
+# Stewarding the Realtime Open Web
+Presentation describing the Real-time Open Web, why it matters, and how you can build with it.
 
 ---
 # Introduction
