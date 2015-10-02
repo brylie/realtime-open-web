@@ -13,7 +13,7 @@ Brylie Christopher Oxley
 ## Natural and commonwealth resources
 ### Environmental commons
 
-####Hydraulic mining
+#### Mining
 > ![Hydraulic mining in Malakoff Diggins, California](http://water.usgs.gov/edu/pictures/full-size/mining-hydraulic-large.jpg)
 >
 > Photo credit [USGS](http://water.usgs.gov/edu/gallery/mining-hydraulic.html) and the Bancroft Library, University of California.
@@ -27,6 +27,14 @@ Brylie Christopher Oxley
 > <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Hydraulic_mining">Hydraulic mining</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> <time class="dt-accessed">Retrieved 2015-10-02</time>)</cite>
 
 Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AMalakoff_Diggins%2C_State_Historic_Park_(Retouched).JPG">via Wikimedia Commons</a>
+
+## Energy
+
+![Hanford nuclear site](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanford_N_Reactor_adjusted.jpg/640px-Hanford_N_Reactor_adjusted.jpg)
+> 
+> "The Hanford site represents two-thirds of America's high-level radioactive waste by volume. Nuclear reactors line the riverbank at the Hanford Site along the Columbia River in January 1960."
+>
+> <cite class="h-cite"><a class="u-url p-name" href="https://en.wikipedia.org/wiki/Lists_of_nuclear_disasters_and_radioactive_incidents#/media/File:Hanford_N_Reactor_adjusted.jpg">Lists of nuclear disasters and radioactive incidents</a> (<abbr class="p-author h-card" title="Wikipedia">Wikipedia</abbr> <time class="dt-accessed">Retrieved 2015-10-02</time>)</cite>
 
 ## Industrialism
 
