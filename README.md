@@ -492,3 +492,20 @@ A subset of Creative Commons licenses are designated as promoting Free Culture. 
 * [What you can do](https://wiki.whatwg.org/wiki/What_you_can_do)
 * [Mailing list](https://whatwg.org/mailing-list)
 * [IRC](https://wiki.whatwg.org/wiki/IRC)
+ 
+# Epilogue
+## Seeking outward
+### The world as an oyster
+
+### Economics of scarcity
+
+## Finding within
+
+### Follow your Heart
+> "When you work you are a flute through whose heart the whispering of the hours turns to music.
+> ...
+> And all work is empty save when there is love;
+> ...
+> Work is love made visible."
+>
+> Gibran, Kahlil. The Prophet. London: Heinemann, 1926. Print. 
