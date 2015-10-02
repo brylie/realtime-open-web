@@ -28,6 +28,8 @@ Brylie Christopher Oxley
 
 Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AMalakoff_Diggins%2C_State_Historic_Park_(Retouched).JPG">via Wikimedia Commons</a>
 
+---
+
 ### Energy
 
 ![Hanford nuclear site](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanford_N_Reactor_adjusted.jpg/640px-Hanford_N_Reactor_adjusted.jpg)
@@ -46,6 +48,7 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 >
 > Image by G.H. Eldridge [Public domain], <a href="https://commons.wikimedia.org/wiki/File%3AOil_wells_just_offshore_at_Summerland%2C_California%2C_c.1915.jpg">via Wikimedia Commons</a>
 
+---
 
 ## Remediation
 
@@ -54,6 +57,7 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 > Image by <a href="//en.wikipedia.org/wiki/User:Antandrus" class="extiw" title="en:User:Antandrus">Antandrus</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>, <a href="https://commons.wikimedia.org/wiki/File%3ASummerlandOilFieldToday1.jpg">via Wikimedia Commons</a>
 
 ---
+
 # Internet
 > [T]he Internet is a network of networks
 >
