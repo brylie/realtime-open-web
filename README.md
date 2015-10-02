@@ -11,7 +11,7 @@ Brylie Christopher Oxley
 ---
 # Prologue
 ## Natural and commonwealth resources
-### Mineral extraction
+### Environmental commons
 
 ####Hydraulic mining
 
