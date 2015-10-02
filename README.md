@@ -1,6 +1,8 @@
 # Stewarding the Realtime Open Web
 Presentation describing the Real-time Open Web, why it matters, and how you can build with it.
 
+[Enter slideshow mode](https://gnab.github.io/remark/remarkise?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbrylie%2Frealtime-open-web%2Fmaster%2FREADME.md#1)
+
 ---
 # Introduction
 ![Apinf team photo](https://pbs.twimg.com/media/CPfSYJbWIAA8DCB.jpg)
