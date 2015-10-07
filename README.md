@@ -551,19 +551,29 @@ Photo by Lihagen (Own work) <a href="https://commons.wikimedia.org/wiki/File%3AO
 
 Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AGuiyu-ewaste.jpg">via Wikimedia Commons</a>
 
+---
+
 ### Economics of scarcity
+
+---
 
 ### Question the intent of technologies, laws, services, etc.
 * Are they life affirming?
 * Do they promote universal access, equality, and sharing?
 * Do they promote participatory design?
 
+---
+
 ## Finding within
+
+---
 
 ### Giving wisdom
 > ![Pearl of wisdom](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Uwakoya1.jpg/480px-Uwakoya1.jpg)
 >
 > Photo by UWAKOYA (http://www.uwakoya.ru/data/pictures/Jevchuzina.jpg), <a href="https://commons.wikimedia.org/wiki/File%3AUwakoya1.jpg">via Wikimedia Commons</a>
+
+---
 
 ### Follow your Heart
 > "When you work you are a flute through whose heart the whispering of the hours turns to music.
@@ -574,7 +584,11 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 >
 > [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print.
 
+---
+
 ### Go beyond logic and pragmatism
+
+---
 
 ### Practice human/community centered design
 * Design for humans, not machines.
@@ -583,7 +597,12 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
   * Open source/design
   * federation
  
+---
+
 ### Achieve simplicity
+Is complexity necessary for success?
+
+---
 * Solutions often trend towards complexity
   * More features
   * Precision
@@ -591,11 +610,14 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
   * Stronger laws
 
 ---
+
 Design and choose simple solutions
 * Opt-out of abusive technologies/services
 * Don't over-share
 * Leave the computer at home
 * Pencil and paper?
+
+---
 
 # Community
 ---
