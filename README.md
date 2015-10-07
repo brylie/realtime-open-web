@@ -97,7 +97,7 @@ Our knowledge commons is facing similar industrialization, in waves.
 * Text
 * Motion pictures
 
-## People as product (mining our lives)
+## People as product (mining our daily lives and relationships)
 > [In] Silicon Valley [...] some of the most prominent and successful companies have built their businesses by lulling their customers into complacency about their personal information. They’re gobbling up everything they can learn about you and trying to monetize it." - *Tim Cook (Apple CEO)*
 > 
 > <cite class="h-cite"><a class="u-url p-name" href="http://techcrunch.com/2015/06/02/apples-tim-cook-delivers-blistering-speech-on-encryption-privacy/">Apple’s Tim Cook Delivers Blistering Speech On Encryption, Privacy</a> (<abbr class="p-author h-card" title="TechCrunch">TechCrunch</abbr> <time class="dt-accessed">Retrieved 2015-10-07</time>)</cite>
