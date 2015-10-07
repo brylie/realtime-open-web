@@ -519,6 +519,10 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 
 ### Economics of scarcity
 
+### Question the intent of technologies/services
+* Are they life affirming?
+* Do they promote access, equality, and sharing?
+
 ## Finding within
 
 ### Giving wisdom
