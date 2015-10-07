@@ -522,6 +522,7 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 ### Question the intent of technologies/services
 * Are they life affirming?
 * Do they promote access, equality, and sharing?
+* Do they promote participatory design?
 
 ## Finding within
 
@@ -540,6 +541,7 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 > [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print.
 
 ### Go beyond logic and pragmatism
+
 
 # Community
 ---
