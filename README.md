@@ -652,11 +652,13 @@ Design and choose simple solutions
 ---
 ## Books
 * [An Open Web](http://openweb.flossmanuals.net/)
+* [The Cultural Life of Intellectual Properties](http://www.goodreads.com/book/show/1077721.The_Cultural_Life_of_Intellectual_Properties) by Rosemary J. Coombe
+* [Captive Audience: The Telecom Industry and Monopoly Power in the New Gilded Age](http://yalepress.yale.edu/book.asp?isbn=9780300153132) by Susan Crawford
 * [Open Data Handbook](http://opendatahandbook.org/)
 * [The Future of the Internet (and How to Stop it)](http://futureoftheinternet.org/) by Jonathan Zittrain
 * [The Future of Ideas](http://www.the-future-of-ideas.com/) by Lawrence Lessig
 * [The Master Switch: The Rise and Fall of Information Empires](https://en.wikipedia.org/wiki/Tim_Wu#The_Master_Switch) by Tim Wu
-* [The Cultural Life of Intellectual Properties](http://www.goodreads.com/book/show/1077721.The_Cultural_Life_of_Intellectual_Properties) by Rosemary J. Coombe
+
  
 ### JavaScript (including ES6/ES2015)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marjin Haverbeke
