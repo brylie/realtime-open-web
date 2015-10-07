@@ -81,6 +81,8 @@ Our knowledge commons is facing similar industrialization, in waves.
 ## Intellectual property rights
 * Copyright extension in 21st century
 * Automatic copyright, no opt-in
+* Control of distribution (discrimination)
+  * 'Not available' in Country X
 
 ## Communications technologies
 * Newspaper
@@ -551,9 +553,9 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 
 ### Economics of scarcity
 
-### Question the intent of technologies/services
+### Question the intent of technologies, laws, services, etc.
 * Are they life affirming?
-* Do they promote access, equality, and sharing?
+* Do they promote universal access, equality, and sharing?
 * Do they promote participatory design?
 
 ## Finding within
