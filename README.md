@@ -533,7 +533,9 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 > ...
 > Work is love made visible."
 >
-> [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print. 
+> [Gibran, Kahlil](https://en.wikipedia.org/wiki/Kahlil_Gibran). [The Prophet](https://en.wikipedia.org/wiki/The_Prophet_%28book%29). London: Heinemann, 1923. Print.
+
+### Go beyond logic and pragmatism
 
 # Community
 ---
