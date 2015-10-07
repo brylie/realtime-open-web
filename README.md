@@ -66,7 +66,7 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 
 ---
 
-## Remediation
+## Environmental Remediation
 
 ![Summerland Oilfield remediation](https://upload.wikimedia.org/wikipedia/commons/3/3e/SummerlandOilFieldToday1.jpg)
 >
