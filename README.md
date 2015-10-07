@@ -578,6 +578,22 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 * Design for humans, not machines.
 * Promote a shared vision.
 * Allow equal participation
+  * Open source/design
+  * federation
+ 
+### Achieve simplicity
+* Solutions often trend towards complexity
+  * More features
+  * Precision
+  * Stronger encryption
+  * Stronger laws
+
+---
+Design and choose simple solutions
+* Opt-out of abusive technologies/services
+* Don't over-share
+* Leave the computer at home
+* Pencil and paper?
 
 # Community
 ---
