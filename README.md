@@ -16,6 +16,7 @@ Brylie Christopher Oxley
 ---
 
 ## Natural and commonwealth resources
+* Industrialization of natural resource management/exploitation
 
 ---
 
@@ -73,6 +74,27 @@ Photo by J.smith, Retouched by Mmxx (Image:Malakoff Diggins, State Historic Park
 > Image by <a href="//en.wikipedia.org/wiki/User:Antandrus" class="extiw" title="en:User:Antandrus">Antandrus</a> at <a class="external text" href="http://en.wikipedia.org">en.wikipedia</a>, <a href="https://commons.wikimedia.org/wiki/File%3ASummerlandOilFieldToday1.jpg">via Wikimedia Commons</a>
 
 ---
+
+# Knowledge commons
+Our knowledge commons is facing similar industrialization, in waves.
+
+## Intellectual property rights
+* Copyright extension in 21st century
+* Automatic copyright, no opt-in
+
+## Communications technologies
+* Newspaper
+* Telegraph
+* Telephone
+* Radio
+* Television
+* Internet
+
+## Cultural heritage
+* Music
+* Text
+* Motion pictures
+
 
 # Internet
 > [T]he Internet is a network of networks
