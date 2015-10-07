@@ -542,6 +542,10 @@ Photo by bleahbleahbleah (Own work) [<a href="http://creativecommons.org/license
 
 ### Go beyond logic and pragmatism
 
+### Practice human/community centered design
+* Design for humans, not machines.
+* Promote a shared vision.
+* Allow equal participation
 
 # Community
 ---
