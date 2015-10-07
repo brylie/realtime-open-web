@@ -625,6 +625,7 @@ Design and choose simple solutions
 * [Electronic Frontier Foundation](https://eff.org)
 * [Mozilla](https://mozilla.org)
 * [Open Knowledge Foundation](https://okfn.org/)
+* [Open Rights Group](https://www.openrightsgroup.org/)
 
 ## Networks
 * [FreeCodeCamp](http://freecodecamp.com/)
