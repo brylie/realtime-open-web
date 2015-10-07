@@ -623,6 +623,7 @@ Design and choose simple solutions
 ---
 ## Organizations
 * [Electronic Frontier Foundation](https://eff.org)
+* [Electronic Privacy Information Center](https://epic.org/)
 * [Mozilla](https://mozilla.org)
 * [Open Knowledge Foundation](https://okfn.org/)
 * [Open Rights Group](https://www.openrightsgroup.org/)
