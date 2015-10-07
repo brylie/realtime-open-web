@@ -665,6 +665,7 @@ Design and choose simple solutions
 ## Articles
 ### Prologue topics
 * [Hydraulic mining](https://en.wikipedia.org/wiki/Hydraulic_mining)
+* Panzarino, Matthew. "[Apple’s Tim Cook Delivers Blistering Speech On Encryption, Privacy.](http://techcrunch.com/2015/06/02/apples-tim-cook-delivers-blistering-speech-on-encryption-privacy/)" TechCrunch, 2 June 2015. Web. 07 Oct. 2015.
 
 ---
 # Get Involved
