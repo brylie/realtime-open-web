@@ -95,6 +95,12 @@ Our knowledge commons is facing similar industrialization, in waves.
 * Text
 * Motion pictures
 
+## People as product (mining our lives)
+* Advertisement
+* Tracking
+* Online profiling
+* Web browsing behavior exploited for commercial advantage
+
 
 # Internet
 > [T]he Internet is a network of networks
