@@ -100,6 +100,10 @@ Our knowledge commons is facing similar industrialization, in waves.
 * Tracking
 * Online profiling
 * Web browsing behavior exploited for commercial advantage
+* Technology regulations to prevent privacy and decrease security
+  * Defective by design
+  * Data retention laws [1](http://www.bbc.com/news/technology-32900604)
+  * Legislation blocking or diminishing encryption technologies
 
 
 # Internet
